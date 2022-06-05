@@ -1,7 +1,8 @@
 ### Olá! Eu sou o Rômulo Felipe Rodrigues 😊
 
-- 🔭 Ainda não estou empregado, mas procuro emprego na area de Java, na parte de Front/Back end, ou criação de jogos atraves do Java.
-- 🌱 Estou estudando criação de jogos atraves do Java e C#.
+- 📚 Formado em JavaWEB pelo Entra21.
+- 🔭 Ainda não estou empregado, mas procuro emprego na area de Java, na parte de Front/Back end.
+- 🌱 Atualmente estudando Java em modo geral, juntamente com CSS 3 e HTML 5.
 
 <div align="center">
   <a href="https://github.com/lipe-romulo">
