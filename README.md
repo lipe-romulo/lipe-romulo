@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Rômulo Felipe Rodrigues 😊
 
 - 📚 Formado em JavaWEB pelo Entra21.
-- 🔭 Ainda não estou empregado, mas procuro emprego na area de Java, na parte de Front/Back end.
-- 🌱 Atualmente estudando Java em modo geral, juntamente com CSS 3 e HTML5.
+- 🔭 Aprendiz na área de TI da Grafica 43 - Suporte ao Usuário
+- 🌱 Estudando atualmente Java e C#
 
 <div align="center">
   <a href="https://github.com/lipe-romulo">
